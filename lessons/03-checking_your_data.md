@@ -60,7 +60,7 @@ fciv.exe -v DataFileToCheck -md5 -xml MD5SUMS.xml
 
 
 > ### Exercise
-> Download the sample file ([datafile](../../../../data-genomics/datafile)) and its MD5SUMS ([MD5SUMS](../../../../data-genomics/MD5SUMS)) file.
+> Download the sample file ([datafile](../../../../data-genomics/blob/gh-pages/datafile)) and its MD5SUMS ([MD5SUMS](../../../../data-genomics/blob/gh-pages/MD5SUMS)) file.
 > 
 > Verify the file using the md5sum command.
 >  
