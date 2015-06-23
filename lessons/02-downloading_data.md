@@ -42,7 +42,7 @@ Wget has many other options that are described in the manpage, some of notable u
 * -c    (Continue getting a partially-downloaded file)
 * --user=user; --password=password (Specify the username user and password password for FTP/HTTP file retrieval)
 
-### curl
+### _curl_
 Curl works just like wget and the syntax is similar:
 ```
 curl URL.of.partial.file
@@ -57,7 +57,7 @@ Other flags of note:
 * -C  -    (Try to resume a download)
 
 
-### rsync
+### _rsync_
 Rsync is a fast tool that copies files over a secure shell connection, as such it can be used to copy files(and directories) to and from any machine that you have access to.
 Since it computes the differences between the source and destination, it reduces the  amount  of data sent over the network by sending only the differences.
 
