@@ -76,5 +76,5 @@ The transfers will be run over ssh, so you will be asked to authenticate.
  
 
 > ### Exercise
-> Download a file from the command line using wget and curl.
+> Download the wget manual from the command line using wget and curl. The URL is : http://www.gnu.org/software/wget/manual/wget.txt
 > 
